@@ -8,5 +8,8 @@ public class ArithmeticProgression {
         int b  = 2;
         int c  =  a +b;
         System.out.println(c);
+
+        int d = a -b;
+        System.out.println(d);
     }
 }
